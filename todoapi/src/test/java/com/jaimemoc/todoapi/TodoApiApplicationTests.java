@@ -1,4 +1,4 @@
-package com.jaimemoc.todo_api;
+package com.jaimemoc.todoapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
